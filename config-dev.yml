@@ -1,2 +1,4 @@
 config:
  info: "version=5"
+server:
+ port: 3366
