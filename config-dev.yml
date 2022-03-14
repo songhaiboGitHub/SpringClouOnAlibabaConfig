@@ -1,4 +1,2 @@
 config:
- info: "version=6"
-#server:
- #port: 3366
+ info: "version=7"
